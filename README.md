@@ -1,6 +1,6 @@
 # MIT_License
 
-This repo consists of my MIT license. It can be found at : https://chaitanya-krishnaviriyala.mit-license.org 
+This repo consists my MIT license. It can be found at : https://chaitanya-krishnaviriyala.mit-license.org 
 
 Special thanks to https://www.richie-bendall.ml/mit-license-generator/ [if you want it you can do it as well]
 
